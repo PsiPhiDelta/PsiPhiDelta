@@ -13,34 +13,25 @@ I'm working on my PhD focusing on:
 - Neutron star structure
 
 In my free time, I build interactive web simulations to help visualize physics and math concepts.
-
-## 💻 Side Projects
-
-I've been learning web development and created some interactive physics simulations:
-
-- **Three-Body Problem** - Symplectic integrators for chaotic orbital dynamics with adaptive timesteps
-- **Magnetic Pendulum** - Exploring chaos and strange attractors with real-time Lyapunov exponents
-- **S³ Visualization** - 4D quaternion geometry via stereographic projection and Hopf fibration
-- **Binary Stars** - Keplerian orbits with eclipse modeling and light curve analysis
-- **ML Classifier** - Comparing physics-informed feature engineering vs raw neural networks
-
 Check them out at [hoseingholami.com](https://hoseingholami.com)
 
-## 🛠️ Technologies I Use
-
-**Research:** Python, C++, Mathematica, LaTeX  
-**Web Development:** JavaScript/TypeScript, React, Next.js  
-**Physics Viz:** Three.js, HTML Canvas  
-**Learning:** Automatic differentiation, constrained optimization, numerical methods
 
 ## 📝 Research & Publications
 
 Working on dense matter physics in the context of neutron stars. You can find my publications on:
 - [INSPIRE-HEP](https://inspirehep.net/authors/2722814) - My research papers
 
+  
 ### Research Code Repositories
 - **[TOV Extravaganza](https://github.com/PsiPhiDelta/TOVExtravaganza)** - Python toolkit for solving TOV equations and analyzing neutron star properties
 - **[Pressure Expansion](https://github.com/PsiPhiDelta/PressureExpansion)** - Mathematica framework for higher-order thermodynamic derivatives in mean-field theories
+
+## 🛠️ Technologies I Use
+
+**Research:** Python, C++, Mathematica, LaTeX, Julia  
+**Web Development:** JavaScript/TypeScript, React, Next.js  
+**Physics Viz:** Three.js, HTML Canvas  
+
 
 ## 📫 Get in Touch
 
@@ -48,8 +39,4 @@ Feel free to reach out if you want to discuss physics, coding, or have questions
 
 - 🌐 Website: [hoseingholami.com](https://hoseingholami.com)
 - 📧 Email: mohammadhossein.gholami@tu-darmstadt.de
-- 🏛️ TU Darmstadt, Institut für Kernphysik
-
----
-
-*"Learning physics one simulation at a time"*
+- 🏛️ TU Darmstadt
