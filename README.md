@@ -8,7 +8,7 @@ PhD student in Theoretical Physics at TU Darmstadt, trying to understand quark m
 ## 🔬 What I Do
 
 I'm working on my PhD focusing on:
-- Dense matter physics and the equation of state
+- Dense quark matter physics and the equation of state
 - Functional Renormalization Group methods
 - Neutron star structure
 
