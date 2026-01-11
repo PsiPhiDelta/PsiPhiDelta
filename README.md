@@ -7,7 +7,7 @@ I have a PhD in Theoretical Physics, currently working as a postdoctral research
 
 ## What I Do
 
-I'm working on my PhD focusing on:
+I'm focusing on:
 - Dense quark matter physics and the equation of state
 - Functional Renormalization Group methods
 - Neutron star structure
