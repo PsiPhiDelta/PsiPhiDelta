@@ -18,7 +18,7 @@ Check them out at [hoseingholami.com](https://hoseingholami.com)
 
 ##  Research & Publications
 
-Working on dense matter physics in the context of neutron stars. You can find my publications on:
+You can find my publications on:
 - [INSPIRE-HEP](https://inspirehep.net/authors/2722814) - My research papers
 
   
