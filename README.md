@@ -1,6 +1,6 @@
 # Hi, I'm Hosein
 
-PhD student in Theoretical Physics at TU Darmstadt, trying to understand quark matter and neutron stars. I also enjoy coding and building things on the web.
+I have a PhD in Theoretical Physics, currently working as a postdoctral researcher at TU Darmstadt, trying to understand quark matter and neutron stars. I also enjoy coding and building things on the web.
 
 [![Website](https://img.shields.io/badge/Website-hoseingholami.com-blue)](https://hoseingholami.com)
 [![Email](https://img.shields.io/badge/Email-TU_Darmstadt-red)](mailto:mohammadhossein.gholami@tu-darmstadt.de)
